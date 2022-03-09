@@ -1,6 +1,6 @@
 # Walmart Store Sales Prediction (Random Forest)
 
-# **Summary**
+## **Summary**
 
 **Introduction**: 
 
