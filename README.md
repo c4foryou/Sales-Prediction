@@ -24,7 +24,7 @@ Feature Data → Temperature, fuel price and markdown information for each date 
 
 **Evaluation**: 
 
-![ex_screenshot](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/aa643311-7fd3-4b6c-8e06-b79021ece867/Untitled.png)
+![ex_screenshot](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/aa643311-7fd3-4b6c-8e06-b79021ece867/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220309%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220309T184015Z&X-Amz-Expires=86400&X-Amz-Signature=b2fd202a6553f7d5806d0ced3efb51d167ba240a8f979aedd97dc8a216fb510c&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 **Final Result**: 483 WMAE for the train data and 2,797 for the private data(equivalent to top 50 scores)
 
