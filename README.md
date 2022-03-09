@@ -1,3 +1,5 @@
+# Walmart Store Sales Prediction (Random Forest)
+
 # **Summary**
 
 **Introduction**: 
@@ -22,7 +24,7 @@ Feature Data → Temperature, fuel price and markdown information for each date 
 
 **Evaluation**: 
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/aa643311-7fd3-4b6c-8e06-b79021ece867/Untitled.png)
+![ex_screenshot](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/aa643311-7fd3-4b6c-8e06-b79021ece867/Untitled.png)
 
 **Final Result**: 483 WMAE for the train data and 2,797 for the private data(equivalent to top 50 scores)
 
